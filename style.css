@@ -5,3 +5,10 @@
     color: var(--branco-principal);
     display: block;
 }
+
+<section class="container secundario">
+   <image src="img/Plataformas.png" class="secundario__imagem" alt="Um monitor">
+    <div class="container__descricao">
+       <h2 class="descricao__titulo">Assista do seu jeito</h2>
+     </div>
+</section>
